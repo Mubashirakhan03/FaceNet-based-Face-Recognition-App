@@ -54,7 +54,7 @@ FaceNet--based-Face-Recognition-app/Project/
 <h2><b>1. Clone the Repository</b></h2>
 
 <pre> 
-git clone https://github.com/Mubashirakhan03/HealthCare-Vision-Assistant.git cd HealthCare-Vision-Assistant 
+git clone https://github.com/Mubashirakhan03/FaceNet-based-Face-Recognition-App.git
 </pre>
 
 
