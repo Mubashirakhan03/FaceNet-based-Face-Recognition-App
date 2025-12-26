@@ -13,6 +13,10 @@ The system can be used for security, attendance management, identity verificatio
 - **Interactive UI**: User-friendly web interface using Streamlit.
 - **Face Matching**: Matches uploaded faces against a pre-trained dataset.
 
+- ##  Technical Observations
+* **Reliability:** Analyzed the impact of spatial resolution on detection accuracy.
+* **Optimization:** Explored the trade-off between model depth and real-time inference speed on local hardware.
+
 
 
 <h2><b>Technologies & Frameworks</b></h2>
